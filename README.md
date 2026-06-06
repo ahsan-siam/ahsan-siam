@@ -14,11 +14,11 @@
 
 - 🎓 Computer Science graduate with strong foundation in **AI, ML, and Software Engineering**
 - 🧠 Working on **Machine Learning & Deep Learning systems**
-- 🤖 Experienced in **LLM applications using Ollama, LLaMA 3**
+- 🤖 Experienced in **LLM applications using OpenAI, Gemini, Ollama-Llama3**
 - 🔗 Building **LangChain + RAG-based intelligent systems**
 - 💻 Full-stack developer using **ASP.NET Core, React.js, Next.js**
 - 🔬 Researcher in **Blockchain + Healthcare + AI**
-- 📚 Published **2 journal papers + 7 conference papers**
+- 📚 Published **9 Research Papers with 37+ Citations**
 
 ---
 
