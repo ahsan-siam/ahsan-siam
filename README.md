@@ -1,8 +1,8 @@
 # Hi there! I'm Ahsan Siam | Full Stack Ai Engineer 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=FULL Stack Ai Engineer&fontSize=40&animation=twinkling" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=AI%20%7%20ML%20%7C%20LLM%20Engineer&fontSize=40&animation=twinkling" />
+</p
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=750&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%26+Neural+Networks;LLM+%7C+LangChain+%7C+RAG+Developer;Full-Stack+Developer+(.NET+%2F+React+%2F+Next.js);Blockchain+Healthcare+Researcher" />
