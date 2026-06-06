@@ -1,7 +1,7 @@
 # Hi there! I'm Ahsan Siam | Full Stack Ai Engineer 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=FULL%20Stacl%20Ai%20Engineer&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=FULL%20Stack%20Ai%20Engineer&fontSize=40&animation=twinkling" />
 </p
 
 <p align="center">
