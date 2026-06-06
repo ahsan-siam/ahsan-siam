@@ -1,4 +1,4 @@
-# Hi there! I'm Ahsan Siam | AI/ML & LLM Engineer 👋
+# Hi there! I'm Ahsan Siam | Full Stack Ai Engineer 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=AI%20%7C%20ML%20%7C%20LLM%20Engineer&fontSize=40&animation=twinkling" />
