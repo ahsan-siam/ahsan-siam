@@ -1,63 +1,70 @@
-# Hi there! I'm Ahsan Siam | Full-Stack Developer & AI Engineer 👋
+# Hi there! I'm Ahsan Siam | AI/ML Engineer & Full-Stack Developer 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=Building%20AI-Powered%20Solutions&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=AI%20%7C%20ML%20%7C%20Deep%20Learning%20Engineer&fontSize=40&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=650&lines=ASP.NET+Core+Full-Stack+Developer;LLM+Application+Engineer;RAG+and+Agentic+AI+Developer;Blockchain+Healthcare+Researcher;Researcher+with+2+Journal+and+7+Conference+Publications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=700&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%26+Neural+Network+Explorer;Full-Stack+Developer+(.NET+%2F+React+%2F+Next.js);Blockchain+Healthcare+Researcher;Published+Researcher+%7C+2+Journals+%2B+7+Conferences" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science graduate with research experience in **Blockchain-based Healthcare Systems**
-- 💻 Full-stack developer specializing in **ASP.NET Core, React.js, and Next.js**
-- 🤖 Building **LLM-powered applications** using **Ollama, LangChain, and RAG architectures**
-- 📚 Published researcher with **2 journal papers** and **7 conference papers**
-- 🔍 Interested in **AI Engineering, Software Architecture, and Applied Research**
-
----
-
-### 🧠 AI & LLM Engineering
-
-- **RAG Systems:** Developed retrieval-augmented generation applications using **LangChain** and **ChromaDB**
-- **Local LLM Integration:** Integrated **Ollama** with **LLaMA 3** for AI-powered applications
-- **Prompt Engineering:** Designed structured prompts for intelligent data extraction and analysis
-- **Agentic AI:** Exploring autonomous AI workflows and multi-step reasoning systems
+- 🎓 Computer Science graduate with strong foundation in **AI, ML, and Software Engineering**
+- 🧠 Experienced in **Machine Learning, Deep Learning, and Neural Network-based systems**
+- 💻 Full-stack developer using **ASP.NET Core, React.js, and Next.js**
+- 🔬 Researcher in **Blockchain + Healthcare + AI applications**
+- 📚 Published **2 journal papers + 7 conference papers**
+- 🎯 Passionate about building **intelligent, scalable, real-world systems**
 
 ---
 
-### ⚙️ Full-Stack & Backend Development
+## 🧠 AI / ML / Deep Learning
 
-- **ASP.NET Core:** Developed Razor Pages applications, REST APIs, and database-driven systems
-- **Frontend:** Built responsive user interfaces using **React.js** and **Next.js**
-- **API Development:** Experienced in authentication, middleware integration, and service-based architectures
-- **Database Integration:** Worked extensively with **SQL Server** and **MySQL**
-
----
-
-### ⛓️ Blockchain Research & Healthcare Systems
-
-- **Electronic Health Records (EHR):** Designed secure healthcare data management systems
-- **Smart Contracts:** Developed blockchain-integrated healthcare applications
-- **Patient Data Security:** Researched decentralized approaches for secure medical data sharing
-- **Academic Contributions:** Published research in blockchain applications for healthcare
+- 🧬 Machine Learning: Classification, Regression, Clustering models
+- 🧠 Deep Learning: Neural Networks, CNN, feature extraction
+- 📊 Data Processing & Feature Engineering
+- 🔍 Model evaluation and optimization techniques
+- 🏥 Medical AI systems (Disease prediction, healthcare analytics)
+- 📚 Research-based AI system design
 
 ---
 
-### 🛠 Technical Ecosystem
+## ⚙️ Full-Stack Development
+
+- 🧩 ASP.NET Core (Razor Pages + Web API)
+- 🌐 React.js & Next.js frontend development
+- 🔗 RESTful API design & integration
+- 🧑‍💻 Authentication, middleware, and session handling
+- 🗄️ SQL Server & relational database design
+
+---
+
+## ⛓️ Blockchain & Research
+
+- 🏥 Blockchain-based Healthcare Systems (EHR)
+- 🔐 Secure medical data sharing systems
+- 📜 Smart contract-based architectures
+- 📊 Research in distributed and decentralized systems
+- 📚 Academic publications in blockchain healthcare domain
+
+---
+
+## 🧰 Technical Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLaMA_3-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge" />
@@ -65,63 +72,77 @@
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-#### 🧠 AI-Powered CV Analyzer
-- Built using **ASP.NET Core Razor Pages**
-- Integrated **Ollama + LLaMA 3**
-- Extracted text from PDF/DOCX resumes
-- Generated AI-based CV scores, strengths, weaknesses, and suggestions
-
-#### 🎓 IELTS Test Simulator
-- Developed using **Next.js**
-- Simulates real IELTS examination environments
-- Includes Reading, Writing, Listening, and Speaking modules
-- Provides interactive mock testing experiences
-
-#### 🤖 Agentic AI RAG Assistant
-- Built using **LangChain** and **ChromaDB**
-- Supports semantic document retrieval
-- Enables context-aware question answering using local LLMs
-
-#### ⛓️ Blockchain Healthcare Research
-- Focused on secure EHR systems
-- Leveraged smart contracts for patient data management
-- Published multiple research papers in this domain
+### 🧠 AI CV Analyzer
+- Built with **ASP.NET Core**
+- PDF/DOCX processing using PdfPig & OpenXML
+- AI-based resume scoring system
+- Extracts skills, strengths, weaknesses, suggestions
+- Stores results in SQL Server
 
 ---
 
-### 📊 Engineering Expertise Dashboard
-
-| Category | Technical Level | Key Specialization |
-| :--- | :--- | :--- |
-| **Artificial Intelligence** | █████████░ 95% | LLMs, RAG & Prompt Engineering |
-| **Full-Stack Development** | █████████░ 95% | ASP.NET Core, React & Next.js |
-| **Backend Engineering** | ████████░░ 95% | APIs, Authentication & SQL |
-| **Blockchain Research** | ████████░░ 85% | EHR Systems & Smart Contracts |
-| **Research & Publications** | █████████░ 90% | Healthcare Blockchain Studies |
+### 🎓 IELTS Test Simulator
+- Built using **Next.js + React**
+- Full exam simulation system
+- Reading, Listening, Writing, Speaking modules
+- Timer-based test environment
+- Dynamic UI with state management
 
 ---
 
-### 📚 Publications
-
-- 📄 **2 Journal Publications**
-- 📄 **7 Conference Publications**
-
-**Research Areas:**
-- Blockchain in Healthcare
-- Electronic Health Records (EHR)
-- Secure Medical Data Sharing
-- Healthcare Data Integrity
+### 🤖 AI / ML Research Systems
+- Machine learning model experimentation
+- Deep learning-based classification tasks
+- Medical AI exploration systems
+- Data-driven research prototypes
 
 ---
 
-### 🤝 Connect & Collaborate
+### ⛓️ Blockchain Healthcare Research
+- Electronic Health Record (EHR) systems
+- Smart contract-based healthcare models
+- Secure patient data architecture
+- Academic research publications
+
+---
+
+## 📊 Engineering Profile
+
+| Domain | Expertise |
+|--------|----------|
+| Artificial Intelligence | Machine Learning + Deep Learning |
+| Full-Stack Development | .NET + React + Next.js |
+| Backend Engineering | APIs, Authentication, SQL |
+| Blockchain Systems | Healthcare + Smart Contracts |
+| Research Work | Published Academic Papers |
+
+---
+
+## 📚 Publications
+
+- 📄 2 Journal Papers  
+- 📄 7 Conference Papers  
+
+**Focus Areas:**
+- AI in Healthcare  
+- Blockchain Systems  
+- Secure Data Management  
+- Intelligent Systems Design  
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ahsan-siam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="right"><i>Bridging software engineering, AI, and research to build impactful solutions.</i></p>
+---
+
+<p align="center">
+  <b>Building intelligent systems at the intersection of AI, software engineering, and research.</b>
+</p>
